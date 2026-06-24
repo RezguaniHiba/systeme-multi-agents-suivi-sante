@@ -1,0 +1,30 @@
+# LLM & agents
+crewai
+crewai-tools
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-pinecone
+
+# Embeddings locaux (HuggingFace)
+sentence-transformers
+
+# Vector store
+pinecone
+
+# API
+fastapi
+uvicorn
+pydantic
+requests
+python-dotenv
+
+# PDF
+pypdf
+tiktoken
+httpx
+litellm
+openai

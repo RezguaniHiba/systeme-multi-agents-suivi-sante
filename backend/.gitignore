@@ -1,0 +1,14 @@
+# environnement python
+venv/
+.venv/
+
+# cache python
+__pycache__/
+*.pyc
+*.pyo
+
+# variables d'environnement
+.env
+
+# bases de données locales
+*.db
